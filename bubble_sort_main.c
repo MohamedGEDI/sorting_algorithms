@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	int array[] = {19, 48, 109, 71, 13, 52, 96, 73, 86, 7};
+	int array[] = {109, 7};
 	size_t size = sizeof(array) / sizeof(array[0]);
 
 	printf("%ld\n", size);
