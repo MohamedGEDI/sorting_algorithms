@@ -5,4 +5,8 @@
 */
 void insertion_sort_list(listint_t **list)
 {
+	listint_t *temp, *current, *h;
+
+	h = *list;
+
 
