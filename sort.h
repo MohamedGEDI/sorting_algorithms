@@ -1,6 +1,7 @@
 #ifndef SORT_H
 #define SORT_H
 
+#include <limits.h>
 #include <stdio.h>
 #include <stdlib.h>
 /**
